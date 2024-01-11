@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-mdc-form-field {
+    margin-top: 10%;
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 14%;
+  }
+  
+  .main{
+    margin-left: 25px;
+    margin-right: 25px;
+  }
